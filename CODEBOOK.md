@@ -3,7 +3,7 @@
 This file describes the output variables produced in the tidy data set that is produced by run_analysis.R, located in this repository. 
 
 ##File Description
-The output file is table contained in a `.txt` file. In the raw data set contains 561 numeric variables describing motion captured in an experiment using 30 participants performing 6 different activities. This tidy data set extracts a subset of the 561 variables, and calculates the mean value of each variable for every combination of participant and activity. 
+The output of `run_analysis.R` is a table contained in a `tidy_accel_data.txt`. The raw data set contains 561 numeric variables describing motion captured in an experiment using 30 participants performing 6 different activities. This tidy data set extracts a subset of the 561 variables, and calculates the mean value of each variable for every combination of participant and activity. 
 
 ##Variables
 
