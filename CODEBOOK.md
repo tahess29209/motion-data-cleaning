@@ -28,4 +28,4 @@ The output file is table contained in a `.txt` file. In the raw data set contain
     * fBodyBodyGyroJerkMag.std..
 
 
-More detailed descriptions of each acceleration data type can be found [here]().
+More detailed descriptions of each acceleration data type can be found in the file `features_info.txt`, included in the original data set. 
